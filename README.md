@@ -73,9 +73,9 @@ A tabela a seguir apresenta um breve resumo sobre a funcionalidade de cada tipo 
 | Merge Sort | 0.021200180053710938 | 0.015271902084350586 | 0.019159317016601562 | 0.031064510345458984 | 0.020815372467041016 | 0.021502256393432617 |
 | Quick Sort | 0.016607999801635742 | 0.01335906982421875 | 0.018128156661987305 | 0.013111352920532227 | 0.016808509826660156 | 0.015603017807006837 |
 
-- Gráfico:
+- Gráfico de Desempenho Médio:
 
-![Gráfico de Desempenho](grafico.html)
+![Gráfico de Desempenho](grafico.png)
 
 ## 🆗 Conclusão
 

@@ -14,11 +14,11 @@ Quicksort é um algoritmo de classificação baseado na abordagem de dividir e c
 
 1. Selecione o elemento Pivot
 
-Existem diferentes variações de quicksort onde o elemento de pivô é selecionado de diferentes posições. Aqui, selecionaremos o elemento mais à direita da matriz como o elemento pivot.
+    Existem diferentes variações de quicksort onde o elemento de pivô é selecionado de diferentes posições. Aqui, selecionaremos o elemento mais à direita da matriz como o elemento pivot.
 
 1. Reorganizar o array
 
-Agora, os elementos da matriz são reorganizados para que os elementos menores que o pivô sejam colocados à esquerda e os elementos maiores que o pivô sejam colocados à direita.
+    Agora, os elementos da matriz são reorganizados para que os elementos menores que o pivô sejam colocados à esquerda e os elementos maiores que o pivô sejam colocados à direita.
 
 Veja como reorganizamos a matriz:
 

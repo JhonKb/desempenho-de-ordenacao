@@ -22,13 +22,13 @@ Suponha que estejamos tentando classificar os elementos em ordem crescente.
 
 2. Iteração restante
 
-O mesmo processo continua para as iterações restantes.
+    O mesmo processo continua para as iterações restantes.
 
-Após cada iteração, o maior elemento entre os elementos não classificados é colocado no final.
+    Após cada iteração, o maior elemento entre os elementos não classificados é colocado no final.
 
-Em cada iteração, a comparação ocorre até o último elemento não classificado.
+    Em cada iteração, a comparação ocorre até o último elemento não classificado.
 
-A matriz é classificada quando todos os elementos não classificados são colocados em suas posições corretas.
+    A matriz é classificada quando todos os elementos não classificados são colocados em suas posições corretas.
 
 ## Exemplo
 

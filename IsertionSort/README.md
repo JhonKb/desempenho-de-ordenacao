@@ -16,11 +16,11 @@ Suponha que precisamos classificar a seguinte matriz.
 
 1. Presume-se que o primeiro elemento na matriz seja classificado. Pegue o segundo elemento e armazene-o separadamente no .
 
-Compare com o primeiro elemento. Se o primeiro elemento for maior que , então é colocado na frente do primeiro elemento.
+    Compare com o primeiro elemento. Se o primeiro elemento for maior que , então é colocado na frente do primeiro elemento.
 
 2. Agora, os dois primeiros elementos são classificados.
 
-Pegue o terceiro elemento e compare-o com os elementos à esquerda dele. Coloque-o logo atrás do elemento menor que ele. Se não houver nenhum elemento menor do que ele, coloque-o no início da matriz.
+    Pegue o terceiro elemento e compare-o com os elementos à esquerda dele. Coloque-o logo atrás do elemento menor que ele. Se não houver nenhum elemento menor do que ele, coloque-o no início da matriz.
 
 3. Da mesma forma, coloque cada elemento não classificado em sua posição correta.
 

@@ -31,7 +31,7 @@ Veja como reorganizamos a matriz:
 
 1. Os elementos de pivô são novamente escolhidos para as subpartes esquerda e direita separadamente. E o passo 2 é repetido.
 
-As submatrizes são divididas até que cada submatriz seja formada por um único elemento. Neste ponto, a matriz já está classificada.
+    As submatrizes são divididas até que cada submatriz seja formada por um único elemento. Neste ponto, a matriz já está classificada.
 
 ## Exemplo
 

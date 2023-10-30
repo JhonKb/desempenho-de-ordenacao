@@ -5,7 +5,7 @@ Tarefa apresentada em sala de aula na disciplina de Estruturas de Dados
 
 ## 📊 Objetivo
 
-A presente tarefa tem como objetivo coletar informações relacionados ao desempenho de diferentes estruturas de dados em sua veloricade de ordenção
+A presente tarefa tem como objetivo coletar informações relacionados ao desempenho de diferentes estruturas de dados em sua velocidade de ordenção
 
 ##
 

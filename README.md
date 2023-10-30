@@ -43,11 +43,13 @@ A tabela a seguir apresenta um breve resumo sobre a funcionalidade de cada tipo 
 
 - Para a realização desta tarefa, foram feitas 2 seções com 5 execuções dos algoritmos em cada uma.
 
-- Cada seção, foi nregistrada em tabelas com as médias de cada seção.
+- Cada seção, foi registrada em tabelas com as médias de cada seção.
 
 - Foram sorteados 10000 números em cada algoritmo aleatóriamente
 
-- Para facilitar o entendimento e a precisão dos dados, foram sortedos 1000 números entre 0 e 10000, que organizados formam um sequência exata de 0 a 9999.
+- Para facilitar o entendimento e a precisão dos dados, foram sortedos 10000 números entre 0 e 10000, que organizados formam um sequência exata de 0 a 9999.
+
+- Ao final, foi tirada uma média geral para cada algoritmo, considerando as duas médias em cada seção.
 
 - Foi utilizado um algoritmo auxiliar para obter as médias presente em [CalculadoraMédia](CalculadoraMedia.py).
 

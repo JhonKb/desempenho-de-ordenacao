@@ -89,7 +89,7 @@ Comm base nos dados apresentados foram obtidas as seguintes conclusões:
 
 - Merge Sort e Quick Sort por outro lado, foram os que apresentaram um desempenho muito superior, sendo quase 10x maior que os outros algoritmos analisados. Em contra partida, ambos possuem um maior nivel de complexidade em sua estrutura.
 
-Portanto, é importanto analisar tambem a aplicação para cada tipo. Em caso de um volume menor de dados, opções como Isertion, Selction ou Buddle Sorte se mostram mais viaveis devido a sua facilidade de construção. Enquanto, para um grande volume de dados, Merge e Quick Sorte são mais indicados.  
+Portanto, é importanto analisar tambem a aplicação para cada tipo. Em caso de um volume menor de dados, opções como Isertion, Selection ou Buddle Sort se mostram mais viáveis devido a sua facilidade de construção. Enquanto, para um grande volume de dados, Merge e Quick Sort são mais indicados.  
 
 ##
 
